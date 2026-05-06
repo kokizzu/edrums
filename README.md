@@ -1,4 +1,4 @@
-# edrums
+# Recommended edrums
 
 <img width="1122" height="1402" alt="image" src="https://github.com/user-attachments/assets/e891b6ac-088c-4557-a4d2-51678304749b" />
 
