@@ -94,10 +94,10 @@ These rows appear likely to pass the same filter, but one or more fields are mis
 
 - Pending rows should only be promoted into the confirmed table after all missing fields are verified, preferably from an official website or a clear retailer specification sheet.
 - Excluded / not promoted by brand:
-  - Alesis: Debut, Turbo Mesh, Nitro Mesh, Nitro Max, Nitro Pro, Surge Mesh, Command Mesh, and Strike MultiPad are not in the confirmed table because they fail the snare/tom size filter, lack a 10-inch tom, or are not full kits.
+  - Alesis: Debut, Turbo Mesh, Nitro Mesh, Nitro Max, Nitro Pro, Nitro Pro XL, Surge Mesh, Command Mesh, and Strike MultiPad are not in the confirmed table because they fail the snare/tom size filter, lack a 10-inch tom, or are not full kits. Nitro Pro XL has a 10-inch snare but only 8-inch toms.
   - Aroma: TDX-N1, TDX-16/16S, TDX-18/18S/18II/18-8S, TDX-22/22S/22II, and TDX-25/25S/25II are excluded because official/manual/retailer specs show 7-8 inch snares and 6-8 inch toms, below the size filter.
   - Avatar / HXW: SD61-2 is excluded because of rubber toms; SD61-4, SD61-5, and SD61-6 are excluded because their snare/tom pads are below the size filter. Avatar A51 appears to meet the physical filter but is not promoted until specs are verified from an official or clearer source.
-  - Donner: smaller DED-series models such as DED-70, DED-80, DED-80P, DED-95, DED-100, DED-200, DED-200 Lite, DED-300X, and DED-400 are not promoted because they fail the snare/tom size filter or lack a verified 10-inch tom.
+  - Donner: smaller DED-series models such as DED-70, DED-80, DED-80P, DED-95, DED-100, DED-200, DED-200 Lite, DED-300X, and DED-400 are not promoted because they fail the snare/tom size filter or lack a verified 10-inch tom. DED-300X has a 10-inch snare, but official Donner specs list 8-inch toms.
   - Hampback: ACE-320 and MK-1S Pro are excluded because their snare/toms are below the size filter; MK-0 / MK-0 Plus are not promoted because pad-size specs are incomplete or entry-level; ACE-360 has conflicting tom-size listings; MK-5L Pro, MK-7X, and ACE-970 appear to meet the physical filter but are not promoted until accepted/verified sources are added.
   - Kyre: Series 1.5 and Series 2.0 are not added yet because pad-size specs were not reliably documented in the checked listings.
   - Medeli: MZ520 is excluded because the snare is below the size filter; MZ528 and MZ537 are excluded because the toms are below the 10-inch tom filter.
