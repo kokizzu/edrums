@@ -90,9 +90,20 @@ These rows appear likely to pass the same filter, but one or more fields are mis
 ## Notes
 
 - Pending rows should only be promoted into the confirmed table after all missing fields are verified, preferably from an official website or a clear retailer specification sheet.
-- Kyre Series 1.5 and 2.0 are not added yet because pad-size specs were not reliably documented in the checked listings.
+- Excluded / not promoted by brand:
+  - Alesis: Debut, Turbo Mesh, Nitro Mesh, Nitro Max, Nitro Pro, Surge Mesh, Command Mesh, and Strike MultiPad are not in the confirmed table because they fail the snare/tom size filter, lack a 10-inch tom, or are not full kits.
+  - Aroma: TDX-N1, TDX-16, and TDX-16S are excluded because their snare/tom pads are below the size filter.
+  - Avatar / HXW: SD61-2 is excluded because of rubber toms; SD61-4, SD61-5, and SD61-6 are excluded because their snare/tom pads are below the size filter. Avatar A51 appears to meet the physical filter but is not promoted until specs are verified from an official or clearer source.
+  - Donner: smaller DED-series models such as DED-70, DED-80, DED-80P, DED-95, DED-100, DED-200, DED-200 Lite, DED-300X, and DED-400 are not promoted because they fail the snare/tom size filter or lack a verified 10-inch tom.
+  - Hampback: ACE-320 and MK-1S Pro are excluded because their snare/toms are below the size filter; MK-0 / MK-0 Plus are not promoted because pad-size specs are incomplete or entry-level; ACE-360 has conflicting tom-size listings; MK-5L Pro, MK-7X, and ACE-970 appear to meet the physical filter but are not promoted until accepted/verified sources are added.
+  - Kyre: Series 1.5 and Series 2.0 are not added yet because pad-size specs were not reliably documented in the checked listings.
+  - Medeli: MZ520 is excluded because the snare is below the size filter; MZ528 and MZ537 are excluded because the toms are below the 10-inch tom filter.
+  - Nokku: NK300 is excluded because its snare/toms are below the size filter; MP5 is excluded because it is a multipad/module rather than a full e-drum kit.
+  - NUX: smaller DM-series models such as DM-1, DM-210/210X, and DM-7X are not promoted because they fail the snare/tom size filter or lack a verified 10-inch tom.
+  - Pearl: eRoadshow / ERS1000 is excluded because it has an 8-inch snare and 6.5-inch toms.
+  - Roland: compact/entry kits such as TD-1, TD-02, TD-07, and many non-KVX/KV compact variants are not promoted because they fail the size filter or use smaller tom pads; multipads are excluded because they are not full kits.
+  - Yamaha: DTX402/432/452 and smaller DTX6 variants such as DTX6K-X / DTX6K2-X / DTX6K3-X are not promoted because they fail the snare/tom size filter or lack a 10-inch tom.
 - Kyre Series 1.0 has rubber cymbals, but it passes the physical-pad filter because the filter only excludes rubber toms.
-- Nokku NK300 is excluded because its snare/toms are below the size filter, and Nokku MP5 is excluded because it is a multipad/module rather than a full e-drum kit.
 - Donner DED-200 MAX specs vary by listing: official/current pages commonly list 450 sounds and 31 kits, while some comparison material lists 480 sounds and a 6-inch rubber kick.
 - Donner DED-500 kick size is marked with a dagger because some regional listings differ; Indonesian listings commonly show 7.5-inch mesh kick.
 - Alesis Strata series uses `370 pieces` instead of a normal voice count because Alesis describes the library as kit pieces, articulations, and samples rather than a simple voice list.
