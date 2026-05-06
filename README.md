@@ -1,6 +1,7 @@
 # Recommended edrums
 
-<img width="1122" height="1402" alt="image" src="https://github.com/user-attachments/assets/e891b6ac-088c-4557-a4d2-51678304749b" />
+<img width="1122" height="1402" alt="image" src="https://github.com/user-attachments/assets/835f9fb0-9419-4fc3-9167-9f21721c1d1f" />
+
 
 
 Electronic drum kit comparison focused on kits with:
