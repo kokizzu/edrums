@@ -61,12 +61,14 @@ These rows appear likely to pass the same filter, but one or more fields are mis
 
 | Brand | Model | ~$k | Sn | 10+ Toms | HH | Ride | Cym | Kick | Kits P/U | Voices / Sounds | Missing / uncertain |
 |---|---|---:|---:|---|---|---|---|---|---|---|---|
+| Donner | DED-210 MAX / Groove Ultra | 0.6-0.9 | 10 | 1x10 + 2x8 | Stand | 2 | 10H / 2x12C / 12R | 6T | 50 total | 400+ | official Donner page not found |
 | Kyre | Series 1.0 | 0.7 | 12 | 2x10 + 1x12 | Ctrl | 1? | 9H / 11C / 11R | 14Sh | 20 preset | n/d | ride zones, voices/sounds |
 | Nokku | XD460 Traveller | 0.8 | 14 | 1x10 | Stand | 3 | 13H / 12C / 14R | 16Sh | 20+20 | n/d | voices/sounds |
 | Nokku | XD460 | 0.85 | 14 | 2x10 + 1x12 | Stand | 3 | 13H / 2x12C / 14R | 16Sh | 20+20 | n/d | voices/sounds |
 | NUX | DM-310 | 0.9 | 10 | 1x10 + 2x8 | Ctrl | 3 | 12H / 12C / 14R | 6T | 18 preset | n/d | voices/sounds |
 | Donner | BEAT | 1.0 | 10 | 3x10 | Ctrl | 2? | 10H / 10C / 12R | 6T | 100+50 | 1100+ | ride zones |
 | Kyre | Series 3.0 | 1.1 | 13 | 1x10 + 1x12 + 1x14 | Stand | 3 | 12H / 2x14C / 16R | 18Sh | 50+15 | n/d | voices/sounds |
+| NUX | DM-310H | 1.1 | 10 | 1x10 + 2x8 | Stand | 2 | 12H / 2x12C / 14R | T | 25+10 / 25 preset | 425 | kit-count wording, kick size/type detail |
 | Medeli | DD638DX | 1.2 | 10 | 1x10 + 2x8 | Ctrl | 3 | 10H / 12C / 14R | 8T | n/d | n/d | kits, voices/sounds |
 | Nokku | XD2000 | 1.2-1.4 | 13 | 1x10 + 1x12 + 1x14 | Stand | 3 | 13H / 2x15C / 18R | 20Sh | 40+40 | n/d | voices/sounds |
 | Medeli | MZ729 | 1.7 | 12 | 2x10 + 1x12 | Stand | 3 | 12H / 14C / 16R | 20Sh | n/d | 722+ | kits preset/user split |
@@ -94,7 +96,7 @@ These rows appear likely to pass the same filter, but one or more fields are mis
 
 - Pending rows should only be promoted into the confirmed table after all missing fields are verified, preferably from an official website or a clear retailer specification sheet.
 - Excluded / not promoted by brand:
-  - Alesis: Debut, Turbo Mesh, Nitro Mesh, Nitro Max, Nitro Pro, Nitro Pro XL, Surge Mesh, Command Mesh, and Strike MultiPad are not in the confirmed table because they fail the snare/tom size filter, lack a 10-inch tom, or are not full kits. Nitro Pro XL has a 10-inch snare but only 8-inch toms.
+  - Alesis: Debut, Turbo Mesh, Nitro Mesh, Nitro Max, Nitro Pro, Nitro Pro XL, Nitro Ultimate, Surge Mesh, Command Mesh, and Strike MultiPad are not in the confirmed table because they fail the snare/tom size filter, lack a 10-inch tom, or are not full kits. Nitro Pro XL and Nitro Ultimate have 10-inch snares but only 8-inch toms.
   - Aroma: TDX-N1, TDX-16/16S, TDX-18/18S/18II/18-8S, TDX-22/22S/22II, and TDX-25/25S/25II are excluded because official/manual/retailer specs show 7-8 inch snares and 6-8 inch toms, below the size filter.
   - Avatar / HXW: SD61-2 is excluded because of rubber toms; SD61-4, SD61-5, and SD61-6 are excluded because their snare/tom pads are below the size filter. Avatar A51 appears to meet the physical filter but is not promoted until specs are verified from an official or clearer source.
   - Donner: smaller DED-series models such as DED-70, DED-80, DED-80P, DED-95, DED-100, DED-200, DED-200 Lite, DED-300X, and DED-400 are not promoted because they fail the snare/tom size filter or lack a verified 10-inch tom. DED-300X has a 10-inch snare, but official Donner specs list 8-inch toms.
