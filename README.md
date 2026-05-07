@@ -1,6 +1,7 @@
 # Recommended edrums
 
-<img width="1122" height="1402" alt="image" src="https://github.com/user-attachments/assets/835f9fb0-9419-4fc3-9167-9f21721c1d1f" />
+<img width="1122" height="1402" alt="image" src="https://github.com/user-attachments/assets/a80014cd-d386-4904-a414-8aebd116a76c" />
+
 
 
 
