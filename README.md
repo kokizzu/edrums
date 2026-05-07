@@ -5,6 +5,7 @@
 
 
 
+
 Electronic drum kit comparison focused on kits with:
 
 - snare size >= 10 inches
@@ -13,83 +14,103 @@ Electronic drum kit comparison focused on kits with:
 
 Rubber kick pads are allowed because the filter is about toms.
 
-## Confirmed comparison table
+## Confirmed comparison tables
 
 Approximate prices are in USD thousands (`~$k`) and vary by region/market.
 
+Confirmed rows are split into:
+
+- rack kits with at least one 8-inch tom
+- rack kits where all toms are 10 inches or larger
+- no-rack / acoustic-style hardware kits
+
 Rows with missing or uncertain fields are kept in the pending table below until the specs are fully verified, preferably from an official website or a clear retailer spec sheet.
+
+### Rack kits with 8-inch tom(s)
 
 | # | Brand | Model | ~$k | Sn | 10+ Toms | HH | Ride | Cym | Kick | Kits P/U | Voices / Sounds |
 |---:|---|---|---:|---:|---|---|---|---|---|---|---|
 | 1 | Donner | DED-200 MAX | 0.5-0.7 | 10 | 1x10 + 2x8 | Ctrl | 2 | 10H / 12C / 12R | 6R | 31 total | 450-480 |
-| 2 | Kyre | Series 1.0 | 0.7 | 12 | 2x10 + 1x12 | Ctrl | 3 | 11H / 11C / 11R | 14Sh | 20+10 | 282 |
-| 3 | Nokku | XD460 / NK460 | 0.85 | 14 | 2x10 + 1x12 | Stand | 3 | 13H / 2x12C / 14R | 16Sh | 20+20 | 697 |
-| 4 | Donner | DED-500 | 0.9 | 10 | 3x10 | Ctrl | 2 | 12H / 12C / 12R | 7.5T† | 72 total | 948 |
-| 5 | NUX | DM-310 | 0.9 | 10 | 1x10 + 2x8 | Ctrl | 2 | 12H / 2x12C / 14R | 6R | 18+10 | 361 |
-| 6 | Medeli | MZ538 | 1.0 | 12 | 1x10 + 2x8 | Stand | 3 | 12H / 12C / 14R | 8T | 31+8 | 459 |
-| 7 | Kyre | Series 1.5 | 1.0 | 13 | 1x8 + 1x10 + 1x12 + 1x13 | Stand | 3 | 11H / 2x12C / 15R | 14Sh | 20+10 | 282 |
-| 8 | Donner | BackBeat | 1.1 | 10 | 3x10 | Ctrl | 2 | 10H / 12C / 12R | 8T | 50+50 | 999+ |
-| 9 | Donner | BEAT MAX | 1.1 | 12 | 3x10 | Ctrl | 3 | 12H / 12C / 14R | 8T | 50+50 | 1126 |
-| 10 | NUX | DM-310H | 1.1 | 10 | 1x10 + 2x8 | Stand | 2 | 12H / 2x12C / 14R | 6R | 25+10 | 425 |
-| 11 | Kyre | Series 3.0 | 1.1 | 13 | 1x10 + 1x12 + 1x14 | Stand | 3 | 12H / 2x14C / 16R | 18Sh | 35+15 | 350 |
-| 12 | Alesis | Crimson II SE | 1.0-1.3 | 12 | 1x10 + 2x8 | Ctrl | 3 | 12H / 2x12C / 14R | 8T | 54+20 | 671 |
-| 13 | Alesis | Crimson III | 1.7 | 12 | 1x10 + 2x8 | Ctrl | 3 | 12H / 2x12C / 14R | 8T | 40+40 | 470 |
-| 14 | Medeli | MZ725 | 1.4 | 10 | 2x10 + 2x8 | Stand | 3 | 12H / 2x12C / 14R | 8T | 54+45 | 699 + 19 HH |
-| 15 | Alesis | Strata Club | 1.6 | 12 | 2x10 | Stand | 3/360 | 12H / 2x12C / 14R | 8T | 75 preset | 370 pieces |
-| 16 | NUX | DM-8 | 1.6 | 12 | 3x10 | Stand | 3 | 12H / 2x12C / 14R | 10T | 30+18 | ~300 |
-| 17 | Roland | TD313 | 1.7 | 12 | 1x10 + 2x8 | Ctrl | 3 | 10H / 12C / 14R | 5T | 200 total, 70+ preset | 1000+ |
-| 18 | Alesis | DM10 MKII Pro | 1.7 | 12 | 2x10 + 2x12 | Ctrl | 3 | 12H / 2x14C / 16R | 8T | 50+30 | 700+ |
-| 19 | Yamaha | DTX6K5-M | 1.8 | 12 | 3x10 | Stand | 3 | 13H / 13C / 15R | 7.5T | 40+200 / 70+200* | 712 / 700+* |
-| 20 | Roland | TD-17KVX2 | 1.9 | 12 | 3x10* | Stand | 3 | 12H / 12C / 14R | 5T | 70+30 | 310 |
-| 21 | Roland | TD-17KV2 | 2.3 | 12 | 3x10* | Ctrl | 3 | 10H / 12C / 14R | 5T | 70+30 | 310 |
-| 22 | Roland | TD-25KV | 2.0 | 10 | 1x10 + 2x8 | Stand | 3 | 12H / 2x12C / 13R | KD-9 | 36 total | 233 |
-| 23 | Roland | TD316 | 2.0 | 12 | 1x10 + 2x8 | Stand | 3 | 12H / 2x12C / 14R | 5T | 200 total, 70+ preset | 1000+ |
-| 24 | Roland | VAD103 | 2.0-2.6 | 12 | 1x10 + 1x12 | Stand | 3 | 12H / 12C / 13R | 18Sh | 25+25 | 143 |
-| 25 | EFNOTE | 3 | 2.2 | 12 | 2x10 + 1x12 | Stand | 3/360 | 12H / 2x14C / 16R | 12Sh | 16+34 | 50 library |
-| 26 | Medeli | MZ923 | 2.2 | 12 | 2x10 + 1x12 | Stand | 3 | 12H / 2x14C / 16R | 12T | 55+45 | 917 |
-| 27 | Alesis | Strata Core | 2.3 | 12 | 1x10 + 2x8 | Stand | 3/360 | 12H / 2x12C / 14R | 8T | 75 preset | 370 pieces |
-| 28 | Yamaha | DTX8K-M | 2.6 | 12 | 3x10 | Stand | 3 | 13H / 2x13C / 15R | 7.5T | 40+200 / 70+200* | 712 / 700+* |
-| 29 | Alesis | Strike Pro SE | 2.7 | 14 | 10 + 12 + 14 | Stand | 3 | 12-14H / 3x14C / 16R | 20Sh | 136 total | 1800+ |
-| 30 | Roland | VAD307 | 2.7-3.5 | 12 | 2x10 + 1x12 | Stand | 3 | 12H / 2x12C / 14R | 18Sh | 70+30 | 310 |
-| 31 | Yamaha | DTX8K-X | 3.0 | 12 | 3x10 | Stand | 3 | 13H / 2x13C / 15R | 7.5T | 40+200 / 70+200* | 712 / 700+* |
-| 32 | EFNOTE | 3X | 3.1 | 12 | 2x10 + 2x12 | Stand | 3/360 | 14H / 2x16C / 18R | 12Sh | 50 total | 50 library |
-| 33 | Medeli | MZ928 | 3.2 | 12 | 2x10 + 1x12 | Stand | 3 | 12H / 2x14C / 16R | 20Sh | 55+45 | 906 + user sample |
-| 34 | EFNOTE | 5 | 3.2 | 12 | 1x10 + 1x12 | Stand | 3/360 | 14H / 16C / 18R | 16Sh | 17+83 | 128 library |
-| 35 | Roland | VAD316 | 3.4 | 12 | 2x10 + 1x12 | Stand | 3 | 12H / 12C / 14C / 16R | 18Sh | 200 total, 70+ preset | 1000+ |
-| 36 | Alesis | Strata Prime | 3.5 | 14 | 10 + 12 + 14 | Stand | 3/360 | 14H / 2x16C / 18R | 20Sh | 75 preset | 370 pieces |
-| 37 | Roland | TD-27KV2 | 3.5 | 14D | 3x10 | Dig | Dig | 14H / 12C / 14C / 18R | 5T | 75+25 | 728 |
-| 38 | Roland | VAD503 | 3.5-4.0 used | 14D | 1x10 + 1x14 | Stand | Dig | 12H / 14C / 18R | 20Sh | 75+25 | 728 |
-| 39 | Roland | TD516 | 3.7 | 14D | 2x10 + 1x12 | Dig | Dig | 14H / 12C / 14C / 18R | 12T* | 200 total, 70+ preset | 1000+ |
-| 40 | EFNOTE | 5X | 4.0 | 12 | 1x10 + 1x12 + 1x13 | Stand | 3/360 | 14H / 8S / 2x16C / 18R | 16Sh | 17+83 | 128 library |
-| 41 | Roland | VAD504 | 4.0-5.0 | 14D | 1x10 + 1x14 | Dig | Dig | 14H / 14C / 18R | 20Sh | 75+25 | 728 |
-| 42 | Nokku | XD2000 / NK2000 | 1.4 | 13 | 1x10 + 1x12 + 1x14 | Stand | 3 | 13H / 2x15C / 18R | 20Sh | 40+40 | 820 |
-| 43 | Yamaha | DTX10K-M | 4.3 | 12 | 2x10 + 1x12 | Stand | 3 | 13H / 13C / 15C / 17R | 12T | 70+200 | 700+ |
-| 44 | EFNOTE | 7 | 4.5 | 14 | 1x11 + 1x15 | Stand | 3/360 | 14H / 16C / 20R | 20Sh | 20+80 | 128 library |
-| 45 | Roland | VAD506 | 4.0-4.6 used | 14D | 1x10 + 1x12 + 1x14 | Stand | Dig | 12H / 14C / 16C / 18R | 20Sh | 75+25 | 728 |
-| 46 | Roland | VAD507 | 4.3-5.0 | 14D | 1x10 + 1x12 + 1x14 | Dig | Dig | 14H / 14C / 16C / 18R | 20Sh | 75+25 | 728 |
-| 47 | Yamaha | DTX10K-X | 4.9 | 12 | 2x10 + 1x12 | Stand | 3 | 13H / 13C / 15C / 17R | 12T | 70+200 | 700+ |
-| 48 | EFNOTE | PRO 500 | 5.0 | 12 | 1x10 + 1x12 | Stand | 3/360 | 14H / 16C / 18R | 16Sh | 23+100 | 167 samples |
-| 49 | EFNOTE | 7X | 5.5 | 14 | 1x11 + 1x13 + 1x15 | Stand | 3/360 | 14H / 18C / 17FX / 20R | 20Sh | 20+80 | 128 library |
-| 50 | Roland | VAD516 | 5.8 | 14D+ | 1x10 + 1x12 + 1x14 | Dig | Dig | 14H / 14C / 16C / 18R | 20Sh | 200 total, 70+ preset | 1000+ |
-| 51 | EFNOTE | PRO 700 | 6.1 | 14 | 1x11 + 1x15 | Stand | 3/360 | 14H / 16C / 20R | 20Sh | 23+100 | 167 samples |
-| 52 | EFNOTE | PRO 500X | 6.8 | 14 | 1x10 + 1x13 | Stand | 3/360 | 14H / 8S / 16C / 17FX / 18Ch / 20R | 16Sh | 23+100 | 167 samples |
-| 53 | EFNOTE | PRO 703X | 8.0 | 14 | 1x10 + 1x13 + 1x15 | Stand | 3/360 | 14H / 8S / 16C / 17FX / 18C / 18D / 20R | 20Sh | 23+100 | 167 samples |
-| 54 | Roland | VAD716 | 8.1-8.8 | 14D+ | 1x10 + 1x12 + 2x14 | Dig | Dig | 14H / 2x16C / 18R | 22Sh | 200 total, 70+ preset | 1000+ |
+| 2 | NUX | DM-310 | 0.9 | 10 | 1x10 + 2x8 | Ctrl | 2 | 12H / 2x12C / 14R | 6R | 18+10 | 361 |
+| 3 | Medeli | MZ538 | 1.0 | 12 | 1x10 + 2x8 | Stand | 3 | 12H / 12C / 14R | 8T | 31+8 | 459 |
+| 4 | NUX | DM-310H | 1.1 | 10 | 1x10 + 2x8 | Stand | 2 | 12H / 2x12C / 14R | 6R | 25+10 | 425 |
+| 5 | Alesis | Crimson II SE | 1.0-1.3 | 12 | 1x10 + 2x8 | Ctrl | 3 | 12H / 2x12C / 14R | 8T | 54+20 | 671 |
+| 6 | Medeli | MZ725 | 1.4 | 10 | 2x10 + 2x8 | Stand | 3 | 12H / 2x12C / 14R | 8T | 54+45 | 699 + 19 HH |
+| 7 | Alesis | Crimson III | 1.7 | 12 | 1x10 + 2x8 | Ctrl | 3 | 12H / 2x12C / 14R | 8T | 40+40 | 470 |
+| 8 | Roland | TD313 | 1.7 | 12 | 1x10 + 2x8 | Ctrl | 3 | 10H / 12C / 14R | 5T | 200 total, 70+ preset | 1000+ |
+| 9 | Roland | TD-25KV | 2.0 | 10 | 1x10 + 2x8 | Stand | 3 | 12H / 2x12C / 13R | KD-9 | 36 total | 233 |
+| 10 | Roland | TD316 | 2.0 | 12 | 1x10 + 2x8 | Stand | 3 | 12H / 2x12C / 14R | 5T | 200 total, 70+ preset | 1000+ |
+| 11 | Alesis | Strata Core | 2.3 | 12 | 1x10 + 2x8 | Stand | 3/360 | 12H / 2x12C / 14R | 8T | 75 preset | 370 pieces |
+
+### Rack kits with only 10+ inch toms
+
+| # | Brand | Model | ~$k | Sn | 10+ Toms | HH | Ride | Cym | Kick | Kits P/U | Voices / Sounds |
+|---:|---|---|---:|---:|---|---|---|---|---|---|---|
+| 1 | Donner | DED-500 | 0.9 | 10 | 3x10 | Ctrl | 2 | 12H / 12C / 12R | 7.5T† | 72 total | 948 |
+| 2 | Donner | BackBeat | 1.1 | 10 | 3x10 | Ctrl | 2 | 10H / 12C / 12R | 8T | 50+50 | 999+ |
+| 3 | Donner | BEAT MAX | 1.1 | 12 | 3x10 | Ctrl | 3 | 12H / 12C / 14R | 8T | 50+50 | 1126 |
+| 4 | Alesis | Strata Club | 1.6 | 12 | 2x10 | Stand | 3/360 | 12H / 2x12C / 14R | 8T | 75 preset | 370 pieces |
+| 5 | NUX | DM-8 | 1.6 | 12 | 3x10 | Stand | 3 | 12H / 2x12C / 14R | 10T | 30+18 | ~300 |
+| 6 | Alesis | DM10 MKII Pro | 1.7 | 12 | 2x10 + 2x12 | Ctrl | 3 | 12H / 2x14C / 16R | 8T | 50+30 | 700+ |
+| 7 | Yamaha | DTX6K5-M | 1.8 | 12 | 3x10 | Stand | 3 | 13H / 13C / 15R | 7.5T | 40+200 / 70+200* | 712 / 700+* |
+| 8 | Roland | TD-17KVX2 | 1.9 | 12 | 3x10* | Stand | 3 | 12H / 12C / 14R | 5T | 70+30 | 310 |
+| 9 | Medeli | MZ923 | 2.2 | 12 | 2x10 + 1x12 | Stand | 3 | 12H / 2x14C / 16R | 12T | 55+45 | 917 |
+| 10 | Roland | TD-17KV2 | 2.3 | 12 | 3x10* | Ctrl | 3 | 10H / 12C / 14R | 5T | 70+30 | 310 |
+| 11 | Yamaha | DTX8K-M | 2.6 | 12 | 3x10 | Stand | 3 | 13H / 2x13C / 15R | 7.5T | 40+200 / 70+200* | 712 / 700+* |
+| 12 | Alesis | Strike Pro SE | 2.7 | 14 | 10 + 12 + 14 | Stand | 3 | 12-14H / 3x14C / 16R | 20Sh | 136 total | 1800+ |
+| 13 | Yamaha | DTX8K-X | 3.0 | 12 | 3x10 | Stand | 3 | 13H / 2x13C / 15R | 7.5T | 40+200 / 70+200* | 712 / 700+* |
+| 14 | Medeli | MZ928 | 3.2 | 12 | 2x10 + 1x12 | Stand | 3 | 12H / 2x14C / 16R | 20Sh | 55+45 | 906 + user sample |
+| 15 | Alesis | Strata Prime | 3.5 | 14 | 10 + 12 + 14 | Stand | 3/360 | 14H / 2x16C / 18R | 20Sh | 75 preset | 370 pieces |
+| 16 | Roland | TD-27KV2 | 3.5 | 14D | 3x10 | Dig | Dig | 14H / 12C / 14C / 18R | 5T | 75+25 | 728 |
+| 17 | Roland | TD516 | 3.7 | 14D | 2x10 + 1x12 | Dig | Dig | 14H / 12C / 14C / 18R | 12T* | 200 total, 70+ preset | 1000+ |
+| 18 | Yamaha | DTX10K-M | 4.3 | 12 | 2x10 + 1x12 | Stand | 3 | 13H / 13C / 15C / 17R | 12T | 70+200 | 700+ |
+| 19 | Yamaha | DTX10K-X | 4.9 | 12 | 2x10 + 1x12 | Stand | 3 | 13H / 13C / 15C / 17R | 12T | 70+200 | 700+ |
+
+### No-rack / acoustic-style hardware kits
+
+| # | Brand | Model | ~$k | Sn | 10+ Toms | HH | Ride | Cym | Kick | Kits P/U | Voices / Sounds |
+|---:|---|---|---:|---:|---|---|---|---|---|---|---|
+| 1 | Kyre | Series 1.0 | 0.7 | 12 | 2x10 + 1x12 | Ctrl | 3 | 11H / 11C / 11R | 14Sh | 20+10 | 282 |
+| 2 | Nokku | XD460 / NK460 | 0.85 | 14 | 2x10 + 1x12 | Stand | 3 | 13H / 2x12C / 14R | 16Sh | 20+20 | 697 |
+| 3 | Kyre | Series 1.5 | 1.0 | 13 | 1x8 + 1x10 + 1x12 + 1x13 | Stand | 3 | 11H / 2x12C / 15R | 14Sh | 20+10 | 282 |
+| 4 | Kyre | Series 3.0 | 1.1 | 13 | 1x10 + 1x12 + 1x14 | Stand | 3 | 12H / 2x14C / 16R | 18Sh | 35+15 | 350 |
+| 5 | Nokku | XD2000 / NK2000 | 1.4 | 13 | 1x10 + 1x12 + 1x14 | Stand | 3 | 13H / 2x15C / 18R | 20Sh | 40+40 | 820 |
+| 6 | EFNOTE | 3 | 2.2 | 12 | 2x10 + 1x12 | Stand | 3/360 | 12H / 2x14C / 16R | 12Sh | 16+34 | 50 library |
+| 7 | Roland | VAD103 | 2.0-2.6 | 12 | 1x10 + 1x12 | Stand | 3 | 12H / 12C / 13R | 18Sh | 25+25 | 143 |
+| 8 | EFNOTE | 3X | 3.1 | 12 | 2x10 + 2x12 | Stand | 3/360 | 14H / 2x16C / 18R | 12Sh | 50 total | 50 library |
+| 9 | EFNOTE | 5 | 3.2 | 12 | 1x10 + 1x12 | Stand | 3/360 | 14H / 16C / 18R | 16Sh | 17+83 | 128 library |
+| 10 | Roland | VAD316 | 3.4 | 12 | 2x10 + 1x12 | Stand | 3 | 12H / 12C / 14C / 16R | 18Sh | 200 total, 70+ preset | 1000+ |
+| 11 | Roland | VAD307 | 2.7-3.5 | 12 | 2x10 + 1x12 | Stand | 3 | 12H / 2x12C / 14R | 18Sh | 70+30 | 310 |
+| 12 | Roland | VAD503 | 3.5-4.0 used | 14D | 1x10 + 1x14 | Stand | Dig | 12H / 14C / 18R | 20Sh | 75+25 | 728 |
+| 13 | EFNOTE | 5X | 4.0 | 12 | 1x10 + 1x12 + 1x13 | Stand | 3/360 | 14H / 8S / 2x16C / 18R | 16Sh | 17+83 | 128 library |
+| 14 | EFNOTE | 7 | 4.5 | 14 | 1x11 + 1x15 | Stand | 3/360 | 14H / 16C / 20R | 20Sh | 20+80 | 128 library |
+| 15 | Roland | VAD506 | 4.0-4.6 used | 14D | 1x10 + 1x12 + 1x14 | Stand | Dig | 12H / 14C / 16C / 18R | 20Sh | 75+25 | 728 |
+| 16 | Roland | VAD504 | 4.0-5.0 | 14D | 1x10 + 1x14 | Dig | Dig | 14H / 14C / 18R | 20Sh | 75+25 | 728 |
+| 17 | Roland | VAD507 | 4.3-5.0 | 14D | 1x10 + 1x12 + 1x14 | Dig | Dig | 14H / 14C / 16C / 18R | 20Sh | 75+25 | 728 |
+| 18 | EFNOTE | PRO 500 | 5.0 | 12 | 1x10 + 1x12 | Stand | 3/360 | 14H / 16C / 18R | 16Sh | 23+100 | 167 samples |
+| 19 | EFNOTE | 7X | 5.5 | 14 | 1x11 + 1x13 + 1x15 | Stand | 3/360 | 14H / 18C / 17FX / 20R | 20Sh | 20+80 | 128 library |
+| 20 | Roland | VAD516 | 5.8 | 14D+ | 1x10 + 1x12 + 1x14 | Dig | Dig | 14H / 14C / 16C / 18R | 20Sh | 200 total, 70+ preset | 1000+ |
+| 21 | EFNOTE | PRO 700 | 6.1 | 14 | 1x11 + 1x15 | Stand | 3/360 | 14H / 16C / 20R | 20Sh | 23+100 | 167 samples |
+| 22 | EFNOTE | PRO 500X | 6.8 | 14 | 1x10 + 1x13 | Stand | 3/360 | 14H / 8S / 16C / 17FX / 18Ch / 20R | 16Sh | 23+100 | 167 samples |
+| 23 | EFNOTE | PRO 703X | 8.0 | 14 | 1x10 + 1x13 + 1x15 | Stand | 3/360 | 14H / 8S / 16C / 17FX / 18C / 18D / 20R | 20Sh | 23+100 | 167 samples |
+| 24 | Roland | VAD716 | 8.1-8.8 | 14D+ | 1x10 + 1x12 + 2x14 | Dig | Dig | 14H / 2x16C / 18R | 22Sh | 200 total, 70+ preset | 1000+ |
 
 ## Pending verification
 
-These rows appear likely to pass the same filter, but one or more fields are missing, inconsistent, or not yet verified from an official website / clear retailer spec sheet. Do not move them into the confirmed table until the missing fields are resolved.
+These rows appear likely to pass the same filter, but one or more fields are missing, inconsistent, or not yet verified from an official website / clear retailer spec sheet. Do not move them into the confirmed tables until the missing fields are resolved.
 
-| Brand | Model | ~$k | Sn | 10+ Toms | HH | Ride | Cym | Kick | Kits P/U | Voices / Sounds | Missing / uncertain |
-|---|---|---:|---:|---|---|---|---|---|---|---|---|
-| Donner | DED-210 MAX / Groove Ultra | 0.6-0.9 | 10 | 1x10 + 2x8 | Stand | 2 | 10H / 2x12C / 12R | 6T | 50 total | 400+ | official Donner page not found |
-| Nokku | XD460 Traveller | 0.8 | 14 | 1x10 | Stand | 3 | 13H / 12C / 14R | 16Sh | 20+20 | n/d | voices/sounds |
-| Donner | BEAT | 1.0 | 10 | 3x10 | Ctrl | 2? | 10H / 10C / 12R | 6T | 100+50 | 1100+ | ride zones |
-| Medeli | DD638DX | 1.2 | 10 | 1x10 + 2x8 | Ctrl | 3 | 10H / 12C / 14R | 8T | n/d | n/d | kits, voices/sounds |
-| EFNOTE | mini | n/d | 10 | 1x10 + 1x8 | Stand | 3/360 | 12H / 8C / 16R | 14Sh | 12+18 | n/d | price, voices/sounds |
-| Medeli | MZ729 | 1.7 | 12 | 2x10 + 1x12 | Stand | 3 | 12H / 14C / 16R | 20Sh | n/d | 722+ | kits preset/user split |
-| Soundking | SD600 | n/d | 10 | 1x10 + 2x8 | Ctrl | 3 | 12H / 2x12C / 14R | 8T | 30+20 | 408 + GM | price |
-| Roland | VAD706 | 7.0-8.0 used | 14D | 1x10 + 1x12 + 1x14 | Dig | Dig | 14H / 2x16C / 18R | 22Sh | n/d | 900+ | kits preset/user split |
+`Rack?` is included here to make pending rows easier to place later.
+
+| Brand | Model | ~$k | Rack? | Sn | 10+ Toms | HH | Ride | Cym | Kick | Kits P/U | Voices / Sounds | Missing / uncertain |
+|---|---|---:|---|---:|---|---|---|---|---|---|---|---|
+| Donner | DED-210 MAX / Groove Ultra | 0.6-0.9 | Yes | 10 | 1x10 + 2x8 | Stand | 2 | 10H / 2x12C / 12R | 6T | 50 total | 400+ | official Donner page not found |
+| Nokku | XD460 Traveller | 0.8 | No | 14 | 1x10 | Stand | 3 | 13H / 12C / 14R | 16Sh | 20+20 | n/d | voices/sounds |
+| Donner | BEAT | 1.0 | Yes | 10 | 3x10 | Ctrl | 2? | 10H / 10C / 12R | 6T | 100+50 | 1100+ | ride zones |
+| Medeli | DD638DX | 1.2 | Yes | 10 | 1x10 + 2x8 | Ctrl | 3 | 10H / 12C / 14R | 8T | n/d | n/d | kits, voices/sounds |
+| EFNOTE | mini | n/d | No | 10 | 1x10 + 1x8 | Stand | 3/360 | 12H / 8C / 16R | 14Sh | 12+18 | n/d | price, voices/sounds |
+| Medeli | MZ729 | 1.7 | No? | 12 | 2x10 + 1x12 | Stand | 3 | 12H / 14C / 16R | 20Sh | n/d | 722+ | kits preset/user split, rack status |
+| Soundking | SD600 | n/d | Yes | 10 | 1x10 + 2x8 | Ctrl | 3 | 12H / 2x12C / 14R | 8T | 30+20 | 408 + GM | price |
+| Roland | VAD706 | 7.0-8.0 used | No | 14D | 1x10 + 1x12 + 1x14 | Dig | Dig | 14H / 2x16C / 18R | 22Sh | n/d | 900+ | kits preset/user split |
 
 ## Legend
 
@@ -108,11 +129,13 @@ These rows appear likely to pass the same filter, but one or more fields are mis
 - `3x10*` on TD-17KV2 / TD-17KVX2 = 10-inch outer pad size, with smaller playing area.
 - `14D` = 14-inch digital snare.
 - `14D+` = newer Roland PD-14DSX digital snare.
+- `Rack?`: `Yes` = rack-based kit, `No` = stand/acoustic-style hardware, `No?` = likely no-rack but still not fully verified.
 - `n/d` = not reliably documented.
 
 ## Notes
 
 - Pending rows should only be promoted into the confirmed table after all missing fields are verified, preferably from an official website or a clear retailer specification sheet.
+- The no-rack / acoustic-style hardware group includes kits that use separate stands, acoustic-style shells, or shell-style hardware packages rather than the compact rack-kit format. Check each model's actual hardware package before buying.
 - Excluded / not promoted by brand:
   - Alesis: Debut, Turbo Mesh, Nitro Mesh, Nitro Max, Nitro Max SE, Nitro Pro, Nitro Pro XL, Nitro Ultimate, Surge Mesh, Command Mesh, and Strike MultiPad are not promoted because they fail the snare/tom size filter, lack a 10-inch tom, or are not full kits. Nitro Max / Max SE / Nitro Pro / Nitro Pro XL have 10-inch snares but only 8-inch toms; Command Mesh also has a 10-inch snare but only 8-inch toms.
   - Aroma: TDX-N1, TDX-10, TDX-16/16S, TDX-18/18S/18II/18-8S, TDX-22/22S/22II, and TDX-25/25S/25II are excluded because official/manual/retailer specs show 7-10 inch snares and 6-8 inch toms, below the tom-size filter.
@@ -129,7 +152,7 @@ These rows appear likely to pass the same filter, but one or more fields are mis
   - Nokku: NK300/XD300 is excluded because its snare/toms are below the size filter; MP5 is excluded because it is a multipad/module rather than a full e-drum kit. XD460/NK460 and XD2000/NK2000 are promoted because price, pad specs, kits, and voices are verified. XD460 Traveller remains pending because it passes the physical filter but still lacks fully verified voices/sounds.
   - NUX: DM-1X, DM-210/210X, DM-7, and DM-7X are excluded because they fail the snare/tom size filter; DM-1X also uses rubber snare/toms, DM-210 has an 8-inch snare and 8-inch toms, and DM-7X has a 10-inch snare but only 8-inch toms. DM-310, DM-310H, and DM-8 are promoted.
   - Pearl: eRoadshow / ERS1000 is excluded because it has an 8-inch snare and 6.5-inch toms.
-  - Roland: compact/entry kits such as TD-1, TD-02, TD-07, TD-07KV, TD-07DMK, TD-25K, and many compact variants are not promoted because they fail the size filter or use smaller tom pads; TD-17KV2, TD-17KVX2, and TD-25KV are promoted because they have 10-inch PDX-8/PDX-100 toms; multipads are excluded because they are not full kits.
+  - Roland: compact/entry kits such as TD-1, TD-02, TD-07, TD-07KV, TD-07DMK, TD-25K, and many compact variants are not promoted because they fail the size filter or use smaller tom pads; TD-17KV2, TD-17KVX2, and TD-25KV are promoted because they have 10-inch PDX-8/PDX-100 toms; VAD models are placed in the no-rack / acoustic-style hardware group; multipads are excluded because they are not full kits.
   - Soundking: SD100, SD10M-SP1/SP2, SD220, SD300, SD310, SKD350, and SKD360 are excluded because they fail the snare/tom size filter or use rubber tom/snare pads. SD600 remains pending until price is verified.
   - Yamaha: DTX402/432/452 and smaller DTX6 variants such as DTX6K-X / DTX6K2-X / DTX6K3-X are not promoted because they fail the snare/tom size filter or use smaller/rubber tom pads.
 - Donner DED-200 MAX specs vary by listing: official/current pages commonly list 450 sounds and 31 kits, while some comparison material lists 480 sounds and a 6-inch rubber kick.
