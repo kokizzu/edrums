@@ -60,12 +60,11 @@ Rows with missing or uncertain fields are kept in the pending table below until 
 | 12 | Yamaha | DTX8K-M | 2.6 | 12 | 3x10 | Stand | 3 | 13H / 2x13C / 15R | 7.5T | 40+200 / 70+200* | 712 / 700+* |
 | 13 | Alesis | Strike Pro SE | 2.7 | 14 | 10 + 12 + 14 | Stand | 3 | 12-14H / 3x14C / 16R | 20Sh | 136 total | 1800+ |
 | 14 | Yamaha | DTX8K-X | 3.0 | 12 | 3x10 | Stand | 3 | 13H / 2x13C / 15R | 7.5T | 40+200 / 70+200* | 712 / 700+* |
-| 15 | Medeli | MZ928 | 3.2 | 12 | 2x10 + 1x12 | Stand | 3 | 12H / 2x14C / 16R | 20Sh | 55+45 | 906 + user sample |
-| 16 | Alesis | Strata Prime | 3.5 | 14 | 10 + 12 + 14 | Stand | 3/360 | 14H / 2x16C / 18R | 20Sh | 75 preset | 370 pieces |
-| 17 | Roland | TD-27KV2 | 3.5 | 14D | 3x10 | Dig | Dig | 14H / 12C / 14C / 18R | 5T | 75+25 | 728 |
-| 18 | Roland | TD516 | 3.7 | 14D | 2x10 + 1x12 | Dig | Dig | 14H / 12C / 14C / 18R | 12T* | 200 total, 70+ preset | 1000+ |
-| 19 | Yamaha | DTX10K-M | 4.3 | 12 | 2x10 + 1x12 | Stand | 3 | 13H / 13C / 15C / 17R | 12T | 70+200 | 700+ |
-| 20 | Yamaha | DTX10K-X | 4.9 | 12 | 2x10 + 1x12 | Stand | 3 | 13H / 13C / 15C / 17R | 12T | 70+200 | 700+ |
+| 15 | Alesis | Strata Prime | 3.5 | 14 | 10 + 12 + 14 | Stand | 3/360 | 14H / 2x16C / 18R | 20Sh | 75 preset | 370 pieces |
+| 16 | Roland | TD-27KV2 | 3.5 | 14D | 3x10 | Dig | Dig | 14H / 12C / 14C / 18R | 5T | 75+25 | 728 |
+| 17 | Roland | TD516 | 3.7 | 14D | 2x10 + 1x12 | Dig | Dig | 14H / 12C / 14C / 18R | 12T* | 200 total, 70+ preset | 1000+ |
+| 18 | Yamaha | DTX10K-M | 4.3 | 12 | 2x10 + 1x12 | Stand | 3 | 13H / 13C / 15C / 17R | 12T | 70+200 | 700+ |
+| 19 | Yamaha | DTX10K-X | 4.9 | 12 | 2x10 + 1x12 | Stand | 3 | 13H / 13C / 15C / 17R | 12T | 70+200 | 700+ |
 
 ### No-rack / stand-based acoustic-style hardware kits
 
@@ -79,21 +78,22 @@ Rows with missing or uncertain fields are kept in the pending table below until 
 | 6 | Roland | VAD103 | 2.0-2.6 | 12 | 1x10 + 1x12 | Stand | 3 | 12H / 12C / 13R | 18Sh | 25+25 | 143 |
 | 7 | EFNOTE | 3X | 3.1 | 12 | 2x10 + 2x12 | Stand | 3/360 | 14H / 2x16C / 18R | 12Sh | 50 total | 50 library |
 | 8 | EFNOTE | 5 | 3.2 | 12 | 1x10 + 1x12 | Stand | 3/360 | 14H / 16C / 18R | 16Sh | 17+83 | 128 library |
-| 9 | Roland | VAD316 | 3.4 | 12 | 2x10 + 1x12 | Stand | 3 | 12H / 12C / 14C / 16R | 18Sh | 200 total, 70+ preset | 1000+ |
-| 10 | Roland | VAD307 | 2.7-3.5 | 12 | 2x10 + 1x12 | Stand | 3 | 12H / 2x12C / 14R | 18Sh | 70+30 | 310 |
-| 11 | Roland | VAD503 | 3.5-4.0 used | 14D | 1x10 + 1x14 | Stand | Dig | 12H / 14C / 18R | 20Sh | 75+25 | 728 |
-| 12 | EFNOTE | 5X | 4.0 | 12 | 1x10 + 1x12 + 1x13 | Stand | 3/360 | 14H / 8S / 2x16C / 18R | 16Sh | 17+83 | 128 library |
-| 13 | EFNOTE | 7 | 4.5 | 14 | 1x11 + 1x15 | Stand | 3/360 | 14H / 16C / 20R | 20Sh | 20+80 | 128 library |
-| 14 | Roland | VAD506 | 4.0-4.6 used | 14D | 1x10 + 1x12 + 1x14 | Stand | Dig | 12H / 14C / 16C / 18R | 20Sh | 75+25 | 728 |
-| 15 | Roland | VAD504 | 4.0-5.0 | 14D | 1x10 + 1x14 | Dig | Dig | 14H / 14C / 18R | 20Sh | 75+25 | 728 |
-| 16 | Roland | VAD507 | 4.3-5.0 | 14D | 1x10 + 1x12 + 1x14 | Dig | Dig | 14H / 14C / 16C / 18R | 20Sh | 75+25 | 728 |
-| 17 | EFNOTE | PRO 500 | 5.0 | 12 | 1x10 + 1x12 | Stand | 3/360 | 14H / 16C / 18R | 16Sh | 23+100 | 167 samples |
-| 18 | EFNOTE | 7X | 5.5 | 14 | 1x11 + 1x13 + 1x15 | Stand | 3/360 | 14H / 18C / 17FX / 20R | 20Sh | 20+80 | 128 library |
-| 19 | Roland | VAD516 | 5.8 | 14D+ | 1x10 + 1x12 + 1x14 | Dig | Dig | 14H / 14C / 16C / 18R | 20Sh | 200 total, 70+ preset | 1000+ |
-| 20 | EFNOTE | PRO 700 | 6.1 | 14 | 1x11 + 1x15 | Stand | 3/360 | 14H / 16C / 20R | 20Sh | 23+100 | 167 samples |
-| 21 | EFNOTE | PRO 500X | 6.8 | 14 | 1x10 + 1x13 | Stand | 3/360 | 14H / 8S / 16C / 17FX / 18Ch / 20R | 16Sh | 23+100 | 167 samples |
-| 22 | EFNOTE | PRO 703X | 8.0 | 14 | 1x10 + 1x13 + 1x15 | Stand | 3/360 | 14H / 8S / 16C / 17FX / 18C / 18D / 20R | 20Sh | 23+100 | 167 samples |
-| 23 | Roland | VAD716 | 8.1-8.8 | 14D+ | 1x10 + 1x12 + 2x14 | Dig | Dig | 14H / 2x16C / 18R | 22Sh | 200 total, 70+ preset | 1000+ |
+| 9 | Medeli | MZ928 | 3.2 | 12 | 2x10 + 1x12 | Stand | 3 | 12H / 2x14C / 16R | 20Sh | 55+45 | 906 + user sample |
+| 10 | Roland | VAD316 | 3.4 | 12 | 2x10 + 1x12 | Stand | 3 | 12H / 12C / 14C / 16R | 18Sh | 200 total, 70+ preset | 1000+ |
+| 11 | Roland | VAD307 | 2.7-3.5 | 12 | 2x10 + 1x12 | Stand | 3 | 12H / 2x12C / 14R | 18Sh | 70+30 | 310 |
+| 12 | Roland | VAD503 | 3.5-4.0 used | 14D | 1x10 + 1x14 | Stand | Dig | 12H / 14C / 18R | 20Sh | 75+25 | 728 |
+| 13 | EFNOTE | 5X | 4.0 | 12 | 1x10 + 1x12 + 1x13 | Stand | 3/360 | 14H / 8S / 2x16C / 18R | 16Sh | 17+83 | 128 library |
+| 14 | EFNOTE | 7 | 4.5 | 14 | 1x11 + 1x15 | Stand | 3/360 | 14H / 16C / 20R | 20Sh | 20+80 | 128 library |
+| 15 | Roland | VAD506 | 4.0-4.6 used | 14D | 1x10 + 1x12 + 1x14 | Stand | Dig | 12H / 14C / 16C / 18R | 20Sh | 75+25 | 728 |
+| 16 | Roland | VAD504 | 4.0-5.0 | 14D | 1x10 + 1x14 | Dig | Dig | 14H / 14C / 18R | 20Sh | 75+25 | 728 |
+| 17 | Roland | VAD507 | 4.3-5.0 | 14D | 1x10 + 1x12 + 1x14 | Dig | Dig | 14H / 14C / 16C / 18R | 20Sh | 75+25 | 728 |
+| 18 | EFNOTE | PRO 500 | 5.0 | 12 | 1x10 + 1x12 | Stand | 3/360 | 14H / 16C / 18R | 16Sh | 23+100 | 167 samples |
+| 19 | EFNOTE | 7X | 5.5 | 14 | 1x11 + 1x13 + 1x15 | Stand | 3/360 | 14H / 18C / 17FX / 20R | 20Sh | 20+80 | 128 library |
+| 20 | Roland | VAD516 | 5.8 | 14D+ | 1x10 + 1x12 + 1x14 | Dig | Dig | 14H / 14C / 16C / 18R | 20Sh | 200 total, 70+ preset | 1000+ |
+| 21 | EFNOTE | PRO 700 | 6.1 | 14 | 1x11 + 1x15 | Stand | 3/360 | 14H / 16C / 20R | 20Sh | 23+100 | 167 samples |
+| 22 | EFNOTE | PRO 500X | 6.8 | 14 | 1x10 + 1x13 | Stand | 3/360 | 14H / 8S / 16C / 17FX / 18Ch / 20R | 16Sh | 23+100 | 167 samples |
+| 23 | EFNOTE | PRO 703X | 8.0 | 14 | 1x10 + 1x13 + 1x15 | Stand | 3/360 | 14H / 8S / 16C / 17FX / 18C / 18D / 20R | 20Sh | 23+100 | 167 samples |
+| 24 | Roland | VAD716 | 8.1-8.8 | 14D+ | 1x10 + 1x12 + 2x14 | Dig | Dig | 14H / 2x16C / 18R | 22Sh | 200 total, 70+ preset | 1000+ |
 
 ## Pending verification
 
@@ -108,7 +108,7 @@ These rows appear likely to pass the same filter, but one or more fields are mis
 | Donner | BEAT | 1.0 | Yes | 10 | 3x10 | Ctrl | 2? | 10H / 10C / 12R | 6T | 100+50 | 1100+ | ride zones |
 | Medeli | DD638DX | 1.2 | Yes | 10 | 1x10 + 2x8 | Ctrl | 3 | 10H / 12C / 14R | 8T | n/d | n/d | kits, voices/sounds |
 | EFNOTE | mini | n/d | No | 10 | 1x10 + 1x8 | Stand | 3/360 | 12H / 8C / 16R | 14Sh | 12+18 | n/d | price, voices/sounds |
-| Medeli | MZ729 | 1.7 | No? | 12 | 2x10 + 1x12 | Stand | 3 | 12H / 14C / 16R | 20Sh | n/d | 722+ | kits preset/user split, rack status |
+| Medeli | MZ729 | 1.7 | No | 12 | 2x10 + 1x12 | Stand | 3 | 12H / 14C / 16R | 20Sh | n/d | 722+ | kits preset/user split |
 | Soundking | SD600 | n/d | Yes | 10 | 1x10 + 2x8 | Ctrl | 3 | 12H / 2x12C / 14R | 8T | 30+20 | 408 + GM | price |
 | Roland | VAD706 | 7.0-8.0 used | No | 14D | 1x10 + 1x12 + 1x14 | Dig | Dig | 14H / 2x16C / 18R | 22Sh | n/d | 900+ | kits preset/user split |
 
@@ -137,6 +137,7 @@ These rows appear likely to pass the same filter, but one or more fields are mis
 
 - Pending rows should only be promoted into the confirmed table after all missing fields are verified, preferably from an official website or a clear retailer specification sheet.
 - The no-rack / stand-based acoustic-style hardware group is based on the mounting hardware package, not just shell appearance. Some acoustic-style shell kits, such as Yamaha DTX8/DTX10, still use rack systems.
+- Medeli rack clarification: MZ538, MZ725, and MZ923 are treated as rack kits here; MZ928 and higher shell-style packages are treated as no-rack / stand-based acoustic-style kits. Pending MZ729 is treated as no-rack while awaiting full kit/user split verification.
 - Yamaha rack clarification: DTX6K5-M uses a rack system, DTX8K-M/X use the RS8 rack system, and DTX10K-M/X use the RS10-HXR rack system. Confirmed Yamaha toms in this list are mesh or TCS, not rubber; rubber Yamaha tom kits remain excluded.
 - Confirmed rows were rechecked so that rubber tom pads are not intentionally included. Rubber kick pads and rubber cymbal pads may still appear because the filter only excludes rubber toms.
 - Excluded / not promoted by brand:
@@ -151,7 +152,7 @@ These rows appear likely to pass the same filter, but one or more fields are mis
   - Hampback: ACE-320 and MK-1S Pro are excluded because their snare/toms are below the size filter; MK-0 / MK-0 Plus are not promoted because pad-size specs are incomplete or entry-level; ACE-360 has conflicting tom-size listings; MK-5L Pro, MK-7X, and ACE-970 appear to meet the physical filter but are not promoted until accepted/verified sources are added.
   - Kyre: Series 1.0, 1.5, and 3.0 are promoted from Artech comparison specs; Series 1.0 is a rack kit, while Series 1.5 and 3.0 are treated as stand-based/acoustic-style hardware kits. Series 2.0 is not added yet because pad-size specs were not reliably documented.
   - Lemon: T-300, T-300SE, and T-300SE Pro are excluded because they have a 10-inch snare but only 8-inch toms.
-  - Medeli: MZ520 is excluded because the snare is below the size filter; MZ528 and MZ537 are excluded because the toms are below the 10-inch tom filter.
+  - Medeli: MZ520 is excluded because the snare is below the size filter; MZ528 and MZ537 are excluded because the toms are below the 10-inch tom filter. MZ538, MZ725, MZ923, and MZ928 are promoted because their toms are mesh/non-rubber and pass the size filter.
   - Nokku: NK300/XD300 is excluded because its snare/toms are below the size filter; MP5 is excluded because it is a multipad/module rather than a full e-drum kit. XD460/NK460 and XD2000/NK2000 are promoted because price, pad specs, kits, and voices are verified. XD460 Traveller remains pending because it passes the physical filter but still lacks fully verified voices/sounds.
   - NUX: DM-1X, DM-210/210X, DM-7, and DM-7X are excluded because they fail the snare/tom size filter; DM-1X also uses rubber snare/toms, DM-210 has an 8-inch snare and 8-inch toms, and DM-7X has a 10-inch snare but only 8-inch toms. DM-310, DM-310H, and DM-8 are promoted.
   - Pearl: eRoadshow / ERS1000 is excluded because it has an 8-inch snare and 6.5-inch toms.
