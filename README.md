@@ -52,12 +52,13 @@ Rows with missing or uncertain fields are kept in the pending table below until 
 | 30 | Roland | VAD503 | 3.5-4.0 used | 14D | 1x10 + 1x14 | Stand | Dig | 12H / 14C / 18R | 20Sh | 75+25 | 728 |
 | 31 | Roland | TD516 | 3.7 | 14D | 2x10 + 1x12 | Dig | Dig | 14H / 12C / 14C / 18R | 12T* | 200 total, 70+ preset | 1000+ |
 | 32 | Roland | VAD504 | 4.0-5.0 | 14D | 1x10 + 1x14 | Dig | Dig | 14H / 14C / 18R | 20Sh | 75+25 | 728 |
-| 33 | Yamaha | DTX10K-M | 4.3 | 12 | 2x10 + 1x12 | Stand | 3 | 13H / 13C / 15C / 17R | 12T | 70+200 | 700+ |
-| 34 | Roland | VAD506 | 4.0-4.6 used | 14D | 1x10 + 1x12 + 1x14 | Stand | Dig | 12H / 14C / 16C / 18R | 20Sh | 75+25 | 728 |
-| 35 | Roland | VAD507 | 4.3-5.0 | 14D | 1x10 + 1x12 + 1x14 | Dig | Dig | 14H / 14C / 16C / 18R | 20Sh | 75+25 | 728 |
-| 36 | Yamaha | DTX10K-X | 4.9 | 12 | 2x10 + 1x12 | Stand | 3 | 13H / 13C / 15C / 17R | 12T | 70+200 | 700+ |
-| 37 | Roland | VAD516 | 5.8 | 14D+ | 1x10 + 1x12 + 1x14 | Dig | Dig | 14H / 14C / 16C / 18R | 20Sh | 200 total, 70+ preset | 1000+ |
-| 38 | Roland | VAD716 | 8.1-8.8 | 14D+ | 1x10 + 1x12 + 2x14 | Dig | Dig | 14H / 2x16C / 18R | 22Sh | 200 total, 70+ preset | 1000+ |
+| 33 | Nokku | XD2000 / NK2000 | 1.4 | 13 | 1x10 + 1x12 + 1x14 | Stand | 3 | 13H / 2x15C / 18R | 20Sh | 40+40 | 820 |
+| 34 | Yamaha | DTX10K-M | 4.3 | 12 | 2x10 + 1x12 | Stand | 3 | 13H / 13C / 15C / 17R | 12T | 70+200 | 700+ |
+| 35 | Roland | VAD506 | 4.0-4.6 used | 14D | 1x10 + 1x12 + 1x14 | Stand | Dig | 12H / 14C / 16C / 18R | 20Sh | 75+25 | 728 |
+| 36 | Roland | VAD507 | 4.3-5.0 | 14D | 1x10 + 1x12 + 1x14 | Dig | Dig | 14H / 14C / 16C / 18R | 20Sh | 75+25 | 728 |
+| 37 | Yamaha | DTX10K-X | 4.9 | 12 | 2x10 + 1x12 | Stand | 3 | 13H / 13C / 15C / 17R | 12T | 70+200 | 700+ |
+| 38 | Roland | VAD516 | 5.8 | 14D+ | 1x10 + 1x12 + 1x14 | Dig | Dig | 14H / 14C / 16C / 18R | 20Sh | 200 total, 70+ preset | 1000+ |
+| 39 | Roland | VAD716 | 8.1-8.8 | 14D+ | 1x10 + 1x12 + 2x14 | Dig | Dig | 14H / 2x16C / 18R | 22Sh | 200 total, 70+ preset | 1000+ |
 
 ## Pending verification
 
@@ -72,7 +73,6 @@ These rows appear likely to pass the same filter, but one or more fields are mis
 | Donner | BEAT | 1.0 | 10 | 3x10 | Ctrl | 2? | 10H / 10C / 12R | 6T | 100+50 | 1100+ | ride zones |
 | Kyre | Series 3.0 | 1.1 | 13 | 1x10 + 1x12 + 1x14 | Stand | 3 | 12H / 2x14C / 16R | 18Sh | 50+15 | n/d | voices/sounds |
 | Medeli | DD638DX | 1.2 | 10 | 1x10 + 2x8 | Ctrl | 3 | 10H / 12C / 14R | 8T | n/d | n/d | kits, voices/sounds |
-| Nokku | XD2000 / NK2000 | 1.2-1.4 | 13 | 1x10 + 1x12 + 1x14 | Stand | 3 | 13H / 2x15C / 18R | 20Sh | 40+40 | 820 | source cross-check / alias |
 | Medeli | MZ729 | 1.7 | 12 | 2x10 + 1x12 | Stand | 3 | 12H / 14C / 16R | 20Sh | n/d | 722+ | kits preset/user split |
 | Soundking | SD600 | n/d | 10 | 1x10 + 2x8 | Ctrl | 3 | 12H / 2x12C / 14R | 8T | 30+20 | 408 + GM | price |
 | Roland | VAD706 | 7.0-8.0 used | 14D | 1x10 + 1x12 + 1x14 | Dig | Dig | 14H / 2x16C / 18R | 22Sh | n/d | 900+ | kits preset/user split |
@@ -110,7 +110,7 @@ These rows appear likely to pass the same filter, but one or more fields are mis
   - Kyre: Series 1.5 and Series 2.0 are not added yet because pad-size specs were not reliably documented in the checked listings.
   - Lemon: T-300, T-300SE, and T-300SE Pro are excluded because they have a 10-inch snare but only 8-inch toms.
   - Medeli: MZ520 is excluded because the snare is below the size filter; MZ528 and MZ537 are excluded because the toms are below the 10-inch tom filter.
-  - Nokku: NK300 is excluded because its snare/toms are below the size filter; MP5 is excluded because it is a multipad/module rather than a full e-drum kit. XD460 Traveller, XD460/NK460, and XD2000/NK2000 remain pending because they pass the physical filter but still lack fully verified voices/sounds.
+  - Nokku: NK300/XD300 is excluded because its snare/toms are below the size filter; MP5 is excluded because it is a multipad/module rather than a full e-drum kit. XD2000/NK2000 is promoted because price, pad specs, kits, and voices are verified. XD460 Traveller and XD460/NK460 remain pending because they pass the physical filter but still lack fully verified voices/sounds.
   - NUX: smaller DM-series models such as DM-1, DM-210/210X, DM-7, and DM-7X are excluded because they fail the snare/tom size filter; DM-7X has a 10-inch snare but only 8-inch toms. DM-310 and DM-310H are promoted because official NUX specs confirm one 10-inch tom and complete kit/voice details.
   - Pearl: eRoadshow / ERS1000 is excluded because it has an 8-inch snare and 6.5-inch toms.
   - Roland: compact/entry kits such as TD-1, TD-02, TD-07, TD-07KV, TD-25K, and many non-KVX/KV compact variants are not promoted because they fail the size filter or use smaller tom pads; TD-25KV is promoted because it has a 10-inch PDX-100 floor tom; multipads are excluded because they are not full kits.
