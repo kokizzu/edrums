@@ -1,8 +1,10 @@
 # Recommended edrums
 
-<img width="1122" height="1402" alt="image" src="https://github.com/user-attachments/assets/a80014cd-d386-4904-a414-8aebd116a76c" />
+<img width="1122" height="1402" alt="image" src="https://github.com/user-attachments/assets/e794b8fe-c931-4e7b-952d-35f7a500239a" />
 
+<img width="1122" height="1402" alt="image" src="https://github.com/user-attachments/assets/8018bbdc-3191-4698-ba2d-585bf46c08d2" />
 
+<img width="1122" height="1402" alt="image" src="https://github.com/user-attachments/assets/9878d86a-a589-48bf-8bfd-e96bf067482f" />
 
 
 
