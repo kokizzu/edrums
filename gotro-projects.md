@@ -11,16 +11,11 @@ Domain-specific business features are intentionally excluded.
 
 ## `tacticduar` Missing Or Incomplete
 
+No confirmed common/shared platform gaps remain in this comparison after the recent `tacticduar` additions.
+
 | Feature | tacticduar | street | kostjc | benakun | Status for `tacticduar` |
 |---|---|---|---|---|---|
-| Deactivate own account | No | Yes | No | No | Missing vs `street` only |
-| Admin access/user audit logs | No | Yes | Yes | Yes | Missing |
-| Dashboard landing for admin role | No | Yes | No | Yes | Optional missing |
-| Backup command | No | Yes | Yes | No | Missing vs `street`,`kostjc` |
-| Restore command | No | Yes | Yes | No | Missing vs `street`,`kostjc` |
-| Stats/maintenance command | No | Yes | Yes | No | Missing vs `street`,`kostjc` |
-| Production `deploy/` scaffolding | No | Yes | Yes | No | Missing |
-| Setup/ops README | Minimal | Yes | Minimal | Minimal | Missing/incomplete |
+| None at the current shared-feature baseline | - | - | - | - | Up to date |
 
 ## `tacticduar` Is `Yes`
 
@@ -36,9 +31,17 @@ Domain-specific business features are intentionally excluded.
 | User profile view | Yes | Yes | Yes | Yes | Present |
 | User profile update | Yes | Yes | Yes | Yes | Present |
 | Change password while logged in | Yes | Yes | No | Yes | Present |
+| Deactivate own account | Yes | Yes | No | No | Present, but not universal |
 | Active sessions list | Yes | Yes | Yes | Yes | Present |
 | Kill session | Yes | Yes | Yes | Yes | Present |
 | Basic admin user management | Yes | Yes | Yes | Yes | Present |
+| Admin access/user audit logs | Yes | Yes | Yes | Yes | Present |
+| Dashboard landing for admin role | Yes | Yes | No | Yes | Present, but not universal |
+| Backup command | Yes | Yes | Yes | No | Present, but not universal |
+| Restore command | Yes | Yes | Yes | No | Present, but not universal |
+| Stats/maintenance command | Yes | Yes | Yes | No | Present, but not universal |
+| Production `deploy/` scaffolding | Yes | Yes | Yes | No | Present, but not universal |
+| Setup/ops README | Yes | Yes | Minimal | Minimal | Present |
 | OAuth/external auth start | Yes | Yes | No | Yes | Present, but not universal |
 | OAuth callback/token exchange | Yes | Yes | No | Partial | Present, but not universal |
 | Auto-login consume flow | Yes | Yes | Partial | Yes | Present |
@@ -48,17 +51,13 @@ Domain-specific business features are intentionally excluded.
 
 ## Main Common Gaps In `tacticduar`
 
-Strongly supported by at least one comparison project:
+No confirmed common/shared platform gaps remain in the current comparison set.
 
-1. Admin access/user audit logs
-2. Backup/restore/stat maintenance commands
-3. Production deploy scaffolding
-4. Better setup/ops documentation
+Remaining differences are mostly non-universal choices, such as:
 
-Less clearly common:
-
-1. `UserDeactivate` exists in `street` only
-2. Admin dashboard landing exists in `street` and `benakun`, but not `kostjc`
+1. `UserDeactivate` is present in `street` and now `tacticduar`, but not in `kostjc` or `benakun`
+2. Admin dashboard landing is present in `street`, `benakun`, and now `tacticduar`, but not `kostjc`
+3. Backup/restore/stat and deploy scaffolding are now present in `tacticduar`, but `benakun` still does not expose the same maintenance surface
 
 ## Important Dependency Differences
 
@@ -83,4 +82,5 @@ These are the more important library/runtime differences, especially around the 
 
 - `Auto-login consume flow` is now marked present for `tacticduar` because both `UserAutoLoginLink` and `GuestAutoLogin` have been added.
 - `Forgot-password request/initiation` and `UserChangePassword` are now present in `tacticduar`.
+- `UserDeactivate`, admin access logs, admin dashboard, backup/restore/stat commands, deploy scaffolding, and setup/ops docs are now present in `tacticduar`.
 - `benakun` is the most divergent on the persistence side because it already uses `go-tarantool/v2`, while the others still use the v1 driver line.
